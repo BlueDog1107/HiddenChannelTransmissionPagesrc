@@ -1,0 +1,80 @@
+{
+    "list": [{
+            "name": "张三",
+            "filename": "xxx文件",
+            "filetype": "txt",
+            "state": "未下载",
+            "date": "2023-1-1"
+        },
+        {
+            "name": "李四",
+            "filename": "xxx文件",
+            "filetype": "txt",
+            "state": "未下载",
+            "date": "2023-1-23"
+        },
+        {
+            "name": "王二",
+            "filename": "xxx文件",
+            "filetype": "txt",
+            "state": "已下载",
+            "date": "2023-2-1"
+        },
+        {
+            "name": "张麻子",
+            "filename": "xxx音乐",
+            "filetype": "mp4",
+            "state": "未下载",
+            "date": "2023-2-12"
+        },
+        {
+            "name": "老六",
+            "filename": "xxx图片",
+            "filetype": "jpg",
+            "state": "未下载",
+            "date": "2022-11-23"
+        },
+        {
+            "name": "小明",
+            "filename": "xxx文件",
+            "filetype": "txt",
+            "state": "未下载",
+            "date": "2023-1-28"
+        },
+        {
+            "name": "小张",
+            "filename": "xxx音乐",
+            "filetype": "mp4",
+            "state": "未下载",
+            "date": "2023-1-12"
+        },
+        {
+            "name": "小强",
+            "filename": "xxx文件",
+            "filetype": "txt",
+            "state": "未下载",
+            "date": "2022-12-23"
+        },
+        {
+            "name": "二王",
+            "filename": "xxx文件",
+            "filetype": "txt",
+            "state": "已下载",
+            "date": "2022-12-1"
+        },
+        {
+            "name": "张麻子",
+            "filename": "xxx音乐",
+            "filetype": "mp4",
+            "state": "未下载",
+            "date": "2023-2-12"
+        },
+        {
+            "name": "张麻子",
+            "filename": "xxx音乐",
+            "filetype": "mp4",
+            "state": "未下载",
+            "date": "2023-2-12"
+        }
+    ]
+}
